@@ -6,3 +6,5 @@ seaborn
 optuna-fast-fanova
 gunicorn
 optuna-dashboard
+keras
+tensorflow
