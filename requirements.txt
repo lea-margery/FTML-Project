@@ -1,2 +1,8 @@
 pandas
 matplotlib
+scikit-learn
+optuna
+seaborn
+optuna-fast-fanova
+gunicorn
+optuna-dashboard
