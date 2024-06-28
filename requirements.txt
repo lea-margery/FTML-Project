@@ -2,7 +2,9 @@ geopandas
 gunicorn
 keras
 lime
+lime
 matplotlib
+numpy
 optuna
 optuna-dashboard
 optuna-fast-fanova
